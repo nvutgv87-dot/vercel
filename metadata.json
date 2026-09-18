@@ -1,0 +1,6 @@
+{
+  "name": "QUẢN TRỊ HỌC TẬP – Hóa học THPT",
+  "description": "Hệ thống quản trị học tập dành cho giáo viên THPT, quản lý lớp học, học sinh, chuyên cần, điểm số, bài tập và kế hoạch giảng dạy môn Hóa học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
